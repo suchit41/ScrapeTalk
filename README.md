@@ -35,9 +35,9 @@ ScrapeTalk is a Streamlit-based application that combines advanced web scraping 
 ## Usage
 
 1. Run the application:
-   streamlit run main.py       
-
-
+     ```
+   streamlit run main.py
+     ```
 3. Use the sidebar to navigate between tools:
 - **Web Scraper & Image Analyzer**: Enter a URL to scrape, view extracted content, and parse specific information
 - **RAG Chatbot**: Create a knowledge base and engage in AI-powered conversations
